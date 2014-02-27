@@ -1,0 +1,35 @@
+.header, .main_content,#archive,.pr{
+	width: 100%;
+}
+.logo{
+	float: left;
+}
+.header,.so_search_box_box{
+	height:70px;
+	vertical-align: middle;
+}
+
+.so_search_box{
+	height:45px;
+	margin-top: 11px;
+	margin-left: 10px;
+}
+.header{
+	border-bottom: solid 1px #DEDEDE;
+	padding: 10px;
+}
+
+.so_left{
+	float: left;
+	width: 204px;
+}
+.so_right{
+	float: left;
+	width: 528px;
+}
+.latest_search ul{
+	margin-left: 15px;
+}
+.keyword_class{
+	width: 590px;
+}

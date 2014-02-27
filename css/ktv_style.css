@@ -1,0 +1,27 @@
+.for_k_t h1{
+	color:red;
+	border:solid 1px red;
+	padding:10px;
+	font-size: 15px !important;
+	float:left;
+	display:block;
+	width:40%;
+}
+
+.for_k_t h3{
+	border:solid 1px gray;
+	padding:10px;
+	font-size: 15px !important;
+	float:right;
+	display:block;
+	width:50%;
+}
+.auto_echo,.r_k{
+	margin:0 auto;
+	width:960px;
+}
+.k_main a{
+	display: block;
+	float: left;
+	width: 230px;
+}
